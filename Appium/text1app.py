@@ -4,7 +4,7 @@ import time,traceback
 
 desired_caps = {}
 desired_caps['platformName'] = 'Android'
-desired_caps['platformVersion'] = '9'
+desired_caps['platformVersion'] = '5.1.1'
 desired_caps['deviceName'] = 'test'
 desired_caps['app'] = r'C:\Work\poutiao.apk'
 desired_caps['appPackage'] = 'io.manong.developerdaily'
