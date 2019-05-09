@@ -1,0 +1,2 @@
+C:\Users\liujiyang\AppData\Local\Android\sdk\tools\bin          uiautomatorviewer
+C:\Users\liujiyang\AppData\Local\Android\sdk\tools\lib           uiautomatorviewer-26.0.0-dev
